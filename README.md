@@ -6,7 +6,7 @@ Dataset: Football Player Stats (2025-2026). Source: www.kaggle.com (real data)
 
 Programming Language: Phyton
 
-Software: Google Colab, Looker Data Studio
+Software: Microsoft Excel, Google Colab and Looker Data Studio
 
 Method: Exploratory Data Analysis
 
@@ -33,3 +33,17 @@ Core Analysis:
 - Tier segmentation based on index ranking model.
 - Key metrics decomposition by tier.
 - Key metrics correlation.
+
+----
+
+-- Output
+
+Please check the file "Football's_Great_Wall_in_The_First_Half_of_2025_2026_Season.png" to see the visualized analysis results.
+
+----
+
+-- How to Run Analysis Code
+
+- Download all files "players_data-2025_2026.csv", "Football's_Great_Wall_in_The_First_Half_of_2025_2026_Season.ipnyb" and "football's_great_wall_in_the_first_half_of_2025_2026_season.py".
+- Upload file "Football's_Great_Wall_in_The_First_Half_of_2025_2026_Season.ipnyb" or "football's_great_wall_in_the_first_half_of_2025_2026_season.py" in Google Colab or other tools as preferred.
+- Run all the code.
